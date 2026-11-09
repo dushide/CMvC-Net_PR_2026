@@ -8,13 +8,13 @@ Download the datasets from <https://drive.google.com/drive/folders/1lsbbjSlvksqI
 
 ### Requirements
 
-- Python 3
-- torch
-- numpy
-- scipy
-- scikit-learn
-- tqdm
-- h5py
+- Python 3.10.18
+- torch 2.5.1 (CUDA 11.8)
+- numpy 2.2.6
+- scipy 1.15.2
+- scikit-learn 1.7.1
+- tqdm 4.67.3
+- h5py 3.14.0
 
 ```bash
 pip install -r requirements.txt
