@@ -1,6 +1,6 @@
 ## CMvC-Net
 
-CMvC-Net is a framework that unfolds a three-component multi-view reconstruction into a fixed-depth network. Unconstrained blocks use learnable momentum, and the two Stiefel factors use a closed-form SVD Procrustes update. Labels are used only when computing clustering metrics.
+CMvC-Net is a framework that unfolds a three-component multi-view reconstruction into a fixed-depth network. Unconstrained blocks use learnable momentum, and the two Stiefel factors use a closed-form SVD Procrustes update. 
 
 ### Datasets
 
